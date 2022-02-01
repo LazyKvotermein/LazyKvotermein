@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LazyKvotermein/static/css/main.5a970f20.css",
+    "main.js": "/LazyKvotermein/static/js/main.5ad503b4.js",
+    "static/js/787.72db5891.chunk.js": "/LazyKvotermein/static/js/787.72db5891.chunk.js",
+    "index.html": "/LazyKvotermein/index.html",
+    "main.5a970f20.css.map": "/LazyKvotermein/static/css/main.5a970f20.css.map",
+    "main.5ad503b4.js.map": "/LazyKvotermein/static/js/main.5ad503b4.js.map",
+    "787.72db5891.chunk.js.map": "/LazyKvotermein/static/js/787.72db5891.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a970f20.css",
+    "static/js/main.5ad503b4.js"
+  ]
+}
