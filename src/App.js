@@ -11,6 +11,12 @@ function App() {
           ar
           auto-rotate
           camera-controls></model-viewer>
+      <model-viewer
+          src="https://lazykvotermein.github.io/LazyKvotermein/build/F-16D.glb"
+          alt="A 3D model of an astronaut"
+          ar
+          auto-rotate
+          camera-controls></model-viewer>
       {/* <model-viewer
            src="https://lazykvotermein.github.io/LazyKvotermein/build/Lantern.glb"
             // ios-src="https://modelviewer.dev/shared-assets/models/Astronaut.usdz"
