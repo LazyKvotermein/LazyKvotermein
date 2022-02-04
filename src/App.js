@@ -10,7 +10,6 @@ function App() {
           alt="A 3D model of an astronaut"
           ar
           auto-rotate
-          autoplay
           camera-controls></model-viewer>
       {/* <model-viewer
            src="https://lazykvotermein.github.io/LazyKvotermein/build/Lantern.glb"
