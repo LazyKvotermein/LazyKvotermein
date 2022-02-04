@@ -21,7 +21,7 @@ function App() {
             autoplay
             camera-controls></model-viewer> */}
         <model-viewer
-            src="https://lazykvotermein.github.io/LazyKvotermein/Horse.glb"
+            src="https://lazykvotermein.github.io/LazyKvotermein/build/Horse.glb"
             ios-src="https://lazykvotermein.github.io/LazyKvotermein/build/1.usdz"
             alt="A 3D model of an astronaut"
             ar
