@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LazyKvotermein/static/css/main.1c3f7085.css",
-    "main.js": "/LazyKvotermein/static/js/main.be0ac517.js",
+    "main.js": "/LazyKvotermein/static/js/main.fbeedf24.js",
     "static/js/787.72db5891.chunk.js": "/LazyKvotermein/static/js/787.72db5891.chunk.js",
     "index.html": "/LazyKvotermein/index.html",
     "main.1c3f7085.css.map": "/LazyKvotermein/static/css/main.1c3f7085.css.map",
-    "main.be0ac517.js.map": "/LazyKvotermein/static/js/main.be0ac517.js.map",
+    "main.fbeedf24.js.map": "/LazyKvotermein/static/js/main.fbeedf24.js.map",
     "787.72db5891.chunk.js.map": "/LazyKvotermein/static/js/787.72db5891.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c3f7085.css",
-    "static/js/main.be0ac517.js"
+    "static/js/main.fbeedf24.js"
   ]
 }
