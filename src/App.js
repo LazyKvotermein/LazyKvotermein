@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <model-viewer
-          src="https://lazykvotermein.github.io/LazyKvotermein/build/OBJ.glb"
-          ios-src="https://lazykvotermein.github.io/LazyKvotermein/build/OBJ.usdz"
+          src="https://lazykvotermein.github.io/LazyKvotermein/stonehenge.glb"
+          ios-src="https://lazykvotermein.github.io/LazyKvotermein/stonehenge.glb"
           alt="A 3D model of an astronaut"
           ar
           auto-rotate
@@ -17,22 +17,19 @@ function App() {
           ar
           auto-rotate
           camera-controls></model-viewer>
-      {/* <model-viewer
-           src="https://lazykvotermein.github.io/LazyKvotermein/build/Lantern.glb"
-            // ios-src="https://modelviewer.dev/shared-assets/models/Astronaut.usdz"
+      <model-viewer
+           src="https://lazykvotermein.github.io/LazyKvotermein/gun.glb"
+            ios-src="https://modelviewer.dev/shared-assets/models/gun.usdz"
             alt="A 3D model of an astronaut"
             ar
             auto-rotate
-            autoplay
-            camera-controls></model-viewer> */}
-        {/* <model-viewer
-            src="https://lazykvotermein.github.io/LazyKvotermein/build/Horse.glb"
-            ios-src="https://lazykvotermein.github.io/LazyKvotermein/build/1.usdz"
+            camera-controls></model-viewer>
+        <model-viewer
+            src="https://lazykvotermein.github.io/LazyKvotermein/building.glb"
             alt="A 3D model of an astronaut"
             ar
             auto-rotate
-            autoplay
-            camera-controls></model-viewer> */}
+            camera-controls></model-viewer>
       <model-viewer
           src="https://modelviewer.dev/shared-assets/models/Astronaut.glb"
           ios-src="https://modelviewer.dev/shared-assets/models/Astronaut.usdz"
