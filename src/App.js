@@ -19,15 +19,17 @@ function App() {
           camera-controls></model-viewer>
       <model-viewer
            src="https://lazykvotermein.github.io/LazyKvotermein/build/gun.glb"
-            ios-src="https://modelviewer.dev/shared-assets/models/build/gun.usdz"
+            ios-src="https://lazykvotermein.github.io/LazyKvotermein/build/gun.usdz"
             alt="A 3D model of an astronaut"
             ar
             auto-rotate
             camera-controls></model-viewer>
         <model-viewer
-            src="https://lazykvotermein.github.io/LazyKvotermein/build/building.glb"
+            src="https://lazykvotermein.github.io/LazyKvotermein/build/engine.glb"
+            ios-src="https://lazykvotermein.github.io/LazyKvotermein/build/engine.usdz"
             alt="A 3D model of an astronaut"
             ar
+            autoplay
             auto-rotate
             camera-controls></model-viewer>
       <model-viewer
